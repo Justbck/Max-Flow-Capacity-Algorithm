@@ -12,6 +12,14 @@ b) Incoming flow is equal to outgoing flow for every vertex except s and t.
 <br><br>
 For example, consider the following graph. <br>
 
+<img width="197" alt="ford_fulkerson11" src="https://user-images.githubusercontent.com/62395299/117550243-2a0b3700-b037-11eb-9bc9-2b2789167e09.png">
+
+<img width="228" alt="ford_fulkerson2" src="https://user-images.githubusercontent.com/62395299/117550242-28da0a00-b037-11eb-95de-c8066475a4c0.png">
+
+
+<br>
+
+The algorithmic strategy to solve this approach was to use algorithm match technique. In this case I have done research through common data structures. Max flow problem has been represented in other graph examples. I have developed my solution to this problem given by Edmund Karp’s algorithm, which is an implementation of Ford-Fulkerson methods. Both methods consist on Breadth-First Search Strategy.
 
 
 
